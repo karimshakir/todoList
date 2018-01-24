@@ -13,7 +13,6 @@ public class TodoItem {
         this.deadline = deadline;
     }
 
-
     public String getShortDescription() {
         return shortDescription;
     }
